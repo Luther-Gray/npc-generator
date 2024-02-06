@@ -10,7 +10,7 @@ The tool provides the following features:
    - This feature allows you to generate a random name. You can toggle between male and female names.
 
 2. **Generate an Age:** 
-   - This feature generates an age for the character within a certain limit of 150 years. You can select the age limit using a slider. If the age is too young, certain features will display a non-option.
+   - This feature generates an age for the character within a range. You can select the age limit using a slider. If the age is too young, certain features will display a non-option.
 
 3. **Assign Enneagram:** 
    - Interesting characters are born from their beliefs and maxims. This feature assigns an Enneagram to the character.
