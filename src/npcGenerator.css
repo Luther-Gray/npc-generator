@@ -18,7 +18,7 @@
 }
 
 .button:active {
-  background-color: #ffd966;
+  background-color: #e4c25c;
   box-shadow: 0 5px #666;
   transform: translateY(2px);
 }

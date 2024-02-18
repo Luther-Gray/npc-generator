@@ -83,7 +83,7 @@ const NPCGenerator = () => {
             id="maxAge"
             name="maxAge"
             min="1"
-            max="300"
+            max="150"
             value={maxAge}
             onChange={handleMaxAgeChange}
           />
