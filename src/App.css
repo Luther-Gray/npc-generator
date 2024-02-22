@@ -7,13 +7,14 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 94vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
 }
 
 .headerSeperator {
@@ -21,6 +22,27 @@
   border: 2px solid #ffd966;
 }
 
-.App-footer {
-  margin-top: auto;
+.quote{
+  max-width: 80%;
+  font-style: italic;
+}
+
+.appFooter{
+  max-height: 2vh;
+}
+
+.footerText {
+  /* padding: auto; */
+  /* margin-top: 3%; */
+  text-align: center;
+}
+
+a {
+  outline-color: transparent;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color:#ffd966;
 }
